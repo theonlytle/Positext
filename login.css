@@ -1,0 +1,22 @@
+body style{
+  background-color: lightgreen;
+}
+
+h1 {
+  position: absolute
+  width: 295px
+  height: 70px
+  left: 572px
+  top:96px
+
+  font-family: 'Roboto'
+  font-style: normal
+  font-weight: 400
+  font-size: 36px
+  line-height: 42px
+  display: flex
+  align-terms: center
+  text-align: center
+
+  color: #000000 
+}

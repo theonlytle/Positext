@@ -1,0 +1,394 @@
+/* Component 2 */
+#ul {
+position: absolute;
+width: 44px;
+height: 34px;
+left: 11px;
+top: 12px;}
+
+/* Positext */
+#title {
+position: absolute;
+width: 201px;
+height: 41px;
+left: 64px;
+top: 11px
+  
+font-family: 'Ruda';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+
+color: #000000;}
+
+/* Rectangle 36 */
+#ul {
+position: absolute;
+width: 1480px;
+height: 60px;
+left: 0px;
+top: -1px;
+
+background: #B3FCB1;}
+
+/* Component 1 */
+#ul {
+position: absolute;
+width: 44px;
+height: 34px;
+left: 11px;
+top: 12px;}
+
+/* Positext */
+#ul {
+position: absolute;
+width: 201px;
+height: 41px;
+left: 64px;
+top: 11px;
+
+font-family: 'Ruda';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+
+color: #000000;}
+
+/* Rectangle 24 */
+#ul {
+position: absolute;
+width: 1480px;
+height: 60px;
+left: 0px;
+top: -1px;
+
+background: #B3FCB1;}
+
+/* Frame 4 */
+#ul {
+position: absolute;
+width: 2px;
+height: 14px;
+left: 55px;
+top: 52px;}
+
+/* Saturday, March 13, 2022 */
+  #ul {
+position: absolute;
+width: 271px;
+height: 133px;
+left: 218px;
+top: 251px;
+
+font-family: 'Red Hat Text';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 48px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+border: 3px solid #594F54;}
+
+/* 8:45 am */
+#ul {
+position: absolute;
+width: 254px;
+height: 159px;
+left: 225px;
+top: 332px;
+
+font-family: 'Red Hat Text';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 64px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+border: 3px solid #594F54;}
+
+/* Rectangle 26 */
+#ul {
+position: absolute;
+width: 6px;
+height: 224px;
+left: 1238px;
+top: 242px;
+
+background: #C4C4C4;}
+
+/* “Each day provides its own gifts.” —Marcus Aurelius */
+#ul {
+position: absolute;
+width: 652px;
+height: 96px;
+left: 572px;
+top: 812px;
+
+font-family: 'Red Hat Text';
+font-style: italic;
+font-weight: 700;
+font-size: 24px;
+line-height: 32px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #594F54;}
+
+/* You’re doing great! */
+#ul {
+position: absolute;
+width: 652px;
+height: 96px;
+left: 572px;
+top: 698px;
+
+font-family: 'Red Hat Text';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 32px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #594F54;}
+
+/* “Only in the darkness can you see the stars.” —Martin Luther King, Jr. */
+#ul {
+position: absolute;
+width: 652px;
+height: 96px;
+left: 572px;
+top: 584px;
+
+font-family: 'Red Hat Text';
+font-style: italic;
+font-weight: 700;
+font-size: 24px;
+line-height: 32px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #594F54;}
+
+/* You’re amazing! */
+#ul {
+position: absolute;
+width: 652px;
+height: 96px;
+left: 572px;
+top: 470px;
+
+font-family: 'Red Hat Text';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 32px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #594F54;}
+
+/* “Extraordinary things are always hiding in places people never think to look.” —Jodi Picoul */
+#ul {
+position: absolute;
+width: 652px;
+height: 96px;
+left: 572px;
+top: 356px;
+
+font-family: 'Red Hat Text';
+font-style: italic;
+font-weight: 700;
+font-size: 24px;
+line-height: 32px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #594F54;}
+
+/* “Keep your face always toward the sunshine—and shadows will fall behind you.” —Walt Whitman */
+#ul {
+position: absolute;
+width: 652px;
+height: 96px;
+left: 572px;
+top: 242px;
+
+font-family: 'Red Hat Text';
+font-style: italic;
+font-weight: 700;
+font-size: 24px;
+line-height: 32px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #594F54;}
+
+/* Rectangle 13 */
+#ul {
+position: absolute;
+width: 672px;
+height: 96px;
+left: 562px;
+top: 812px;
+
+background: #2BEBCB;
+border: 1px solid #594F54;
+box-sizing: border-box;
+border-radius: 15px;}
+
+/* Rectangle 12 */
+#ul {
+position: absolute;
+width: 672px;
+height: 96px;
+left: 562px;
+top: 698px;
+
+background: #2BEBCB;
+border: 1px solid #594F54;
+box-sizing: border-box;
+border-radius: 15px;
+Width 
+672px
+Height 
+96px
+Top 
+242px
+Left 
+562px
+Radius 
+15px
+Blend 
+Pass through
+#2BEBCB
+1px
+Inner border
+#594F54}
+
+/* Rectangle 8 */
+  #ul {
+position: absolute;
+width: 672px;
+height: 96px;
+left: 562px;
+top: 242px;
+
+background: #2BEBCB;
+border: 1px solid #594F54;
+box-sizing: border-box;
+border-radius: 15px;}
+
+/* Rectangle 7 */
+#ul {
+position: absolute;
+width: 303px;
+height: 699px;
+left: 201px;
+top: 231px;
+
+background: url(hello-i-m-nik-f25CC6ZDasQ-unsplash.jpg);
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 15px;}
+
+/* Rectangle 11 */
+#ul {
+position: absolute;
+width: 672px;
+height: 96px;
+left: 562px;
+top: 584px;
+
+background: #2BEBCB;
+border: 1px solid #594F54;
+box-sizing: border-box;
+border-radius: 15px;}
+
+/* Rectangle 10 */
+#ul {
+position: absolute;
+width: 672px;
+height: 96px;
+left: 562px;
+top: 470px;
+
+background: #2BEBCB;
+border: 1px solid #594F54;
+box-sizing: border-box;
+border-radius: 15px;}
+
+/* Rectangle 9 */
+#ul {
+position: absolute;
+width: 672px;
+height: 96px;
+left: 562px;
+top: 356px;
+
+background: #2BEBCB;
+border: 1px solid #594F54;
+box-sizing: border-box;
+border-radius: 15px;}
+
+/* Rectangle 5 */
+#ul {
+position: absolute;
+width: 700px;
+height: 699px;
+left: 548px;
+top: 231px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 15px;}
+
+/* Dashboard */
+#ul {
+position: absolute;
+width: 295px;
+height: 70px;
+left: 572px;
+top: 78px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 42px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;}
+
+/* Rectangle 35 */
+#ul {
+position: absolute;
+width: 248px;
+height: 152px;
+left: 231px;
+top: 262px;
+
+background: #C4C4C4;
+border: 1px solid #000000;
+box-sizing: border-box;}

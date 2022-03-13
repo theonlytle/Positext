@@ -1,0 +1,23 @@
+/* Component 1 */
+position: absolute;
+width: 44px;
+height: 34px;
+left: 11px;
+top: 12px;
+
+/* Positext */
+title: {position: absolute;
+width: 201px;
+height: 41px;
+left: 64px;
+top: 11px;
+
+font-family: 'Ruda';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+
+color: #000000;}
+
